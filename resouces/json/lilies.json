@@ -1,0 +1,32 @@
+[
+  {
+    "price": 7,
+    "color": "белая",
+    "budAmount": 3
+  },
+  {
+    "price": 8,
+    "color": "белая",
+    "budAmount": 4
+  },
+  {
+    "price": 9,
+    "color": "белая",
+    "budAmount": 5
+  },
+  {
+    "price": 7,
+    "color": "розовая",
+    "budAmount": 3
+  },
+  {
+    "price": 8,
+    "color": "розовая",
+    "budAmount": 4
+  },
+  {
+    "price": 9,
+    "color": "розовая",
+    "budAmount": 5
+  }
+]

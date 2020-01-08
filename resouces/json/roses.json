@@ -1,0 +1,32 @@
+[
+  {
+    "price": 5,
+    "color": "красная",
+    "stemLength": "маленькая"
+  },
+  {
+    "price": 6,
+    "color": "красная",
+    "stemLength": "средняя"
+  },
+  {
+    "price": 7,
+    "color": "красная",
+    "stemLength": "большая"
+  },
+  {
+    "price": 5,
+    "color": "белая",
+    "stemLength": "маленькая"
+  },
+  {
+    "price": 6,
+    "color": "белая",
+    "stemLength": "средняя"
+  },
+  {
+    "price": 7,
+    "color": "белая",
+    "stemLength": "большая"
+  }
+]
